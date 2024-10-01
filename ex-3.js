@@ -21,7 +21,7 @@ console.log(
     ", " +
     employee.address.city +
     ", " +
-    employee.address.street +
+    employee.address.states +
     ", " +
     employee.address.country +
     " " +
